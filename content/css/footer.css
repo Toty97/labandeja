@@ -1,0 +1,44 @@
+
+footer {
+
+    background-color: black;
+    color: #fff;
+    font-size: 12px;
+	font-family: 'Roboto', sans-serif;
+	width: 0 auto;
+	height: 100px;
+	text-align: center;
+
+}
+
+.header_link {
+	display: flex;
+	justify-content: space-between;
+
+}
+
+.cpyr {
+	font-size: 9px;
+}
+
+i {
+	font-size: 40px;
+	color: white;
+	padding: 15px;
+}
+
+@media (max-width: 960px) {
+  footer {
+    width: auto;
+  }
+}
+@media (max-width: 720px) {
+  footer {
+    width: auto;
+  }
+}
+@media (max-width: 540px) {
+  footer {
+    width: footer;
+  }
+}

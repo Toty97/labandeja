@@ -1,0 +1,31 @@
+.description {
+	background-size: cover;
+	background-position: 75% 25%;
+   	padding: 50px;
+   	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.4);
+	font-size: 17px;
+	font-family: 'Roboto', sans-serif;
+	padding: 10px;
+	margin: 10px;
+
+}
+
+
+.description h1 {
+	text-align: center;
+	color: #EAECEE;
+	font-size: 28px;
+	padding: 7px;
+
+}
+
+.description p {
+	text-align: center;
+	color: white;
+}
+
+.container_em p {
+	text-align: center;
+	color: white;
+
+}
